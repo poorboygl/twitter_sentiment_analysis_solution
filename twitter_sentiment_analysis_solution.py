@@ -247,4 +247,4 @@ ax[1, 1].plot(val_accs, color='orange')
 ax[1, 1].set(xlabel='Epoch', ylabel='Accuracy')
 ax[1, 1].set_title('Validation Accuracy')
 
-plt.savefig("foo.pdf")
+plt.savefig("result.pdf")
